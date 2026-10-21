@@ -2,5 +2,5 @@
 User-agent: *
 Allow: /
 
-# ★ 아래 주소를 실제 페이지 주소로 바꾸세요.
-Sitemap: https://thedawon.github.io/sitemap.xml
+# 견적문의 페이지의 사이트맵 위치
+Sitemap: https://thedawon.github.io/quote/sitemap.xml
